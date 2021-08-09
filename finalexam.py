@@ -1,5 +1,5 @@
 #################################################
-# hw7: One-Dimensional Connect Four
+# Final exam
 # name:Michael Kosecki
 # andrew id: mkosecki
 #
